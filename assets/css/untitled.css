@@ -1,0 +1,45 @@
+@media (min-width: 1200px) {
+  .social-icons {
+  }
+}
+
+@media (min-width: 992px) {
+  .social-icons {
+  }
+}
+
+@media (min-width: 1200px) {
+  .social-icons {
+  }
+}
+
+@media (min-width: 300px) {
+  .social-icons {
+  }
+}
+
+@media (min-width: 576px) {
+  .social-icons {
+  }
+}
+
+@media (min-width: 300px) {
+  .container {
+  }
+}
+
+@media (min-width: 300px) {
+  .portfolio-block .heading h2 {
+  }
+}
+
+.portfolio-block.block-intro p {
+  letter-spacing: 2px;
+  font-weight: 900;
+}
+
+.portfolio-block.block-intro p {
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+
