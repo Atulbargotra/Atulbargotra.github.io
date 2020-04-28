@@ -116,7 +116,7 @@ left: 20px;
 box-shadow: inset 0 0 0 1px deepskyblue, 0 2px 4px rgba(0,0,0,.2);
 }
 #container {
-  width: 600px;
+  width: auto;
   height: 354px;
   display: flex;
   align-items: center;
