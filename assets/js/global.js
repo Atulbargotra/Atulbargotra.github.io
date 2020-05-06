@@ -1,1 +1,0 @@
-var web_mode = 'light-mode';
